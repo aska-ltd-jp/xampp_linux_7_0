@@ -3,6 +3,10 @@ xampp_linux_7_0 CHANGELOG
 
 This file is used to list changes made in each version of the xampp_linux_7_0 cookbook.
 
+0.1.1
+-----
+- [Aska] - added .gitkeep file to cookbook for downloading
+
 0.1.0
 -----
 - [Aska] - Initial release of xampp_linux_7_0
