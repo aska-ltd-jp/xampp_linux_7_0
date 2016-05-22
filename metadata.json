@@ -1,0 +1,51 @@
+{
+  "name": "xampp_linux_7_0",
+  "description": "Installs/Configures xampp_linux_7_0",
+  "long_description": "xampp_linux_7_0 Cookbook\n========================\nxampp_linux_7_0\n\nRequirements\n------------\n\n\nAttributes\n----------\n\n\nUsage\n-----\n#### xampp_linux_7_0::default\nJust include `xampp_linux_7_0` in your node's `run_list`:\n\n```json\n{\n  \"name\":\"my_node\",\n  \"run_list\": [\n    \"recipe[xampp_linux_7_0]\"\n  ],\n  \"xampp_linux_7_0\": {\n    \"x64_str\": \"x64\",\n    \"build_number\": \"5\",\n    \"release_number\": \"0\",\n    \"file_sha256sum\": \"8b93005ab1dda77e112fa24ef18542e83cbe05c32a5b17f1172818633d351ff0\"\n  }\n}\n```\n\nContributing\n------------\n\n\nLicense and Authors\n-------------------\n**Author:**  developers.oss@aska-ltd.jp\n\n**Copyright:** 2016, Aska Co., Ltd. http://www.aska-ltd.jp/\n\n```\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License.\n```\n",
+  "maintainer": "Aska Co., Ltd. http://www.aska-ltd.jp/",
+  "maintainer_email": "developers.oss@aska-ltd.jp",
+  "license": "Apache License, Version 2.0",
+  "platforms": {
+
+  },
+  "dependencies": {
+
+  },
+  "recommendations": {
+
+  },
+  "suggestions": {
+
+  },
+  "conflicting": {
+
+  },
+  "providing": {
+
+  },
+  "replacing": {
+
+  },
+  "attributes": {
+
+  },
+  "groupings": {
+
+  },
+  "recipes": {
+
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": "",
+  "privacy": false,
+  "chef_versions": [
+
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
